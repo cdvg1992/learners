@@ -1,12 +1,12 @@
 import React from 'react'
+import DALogo from './DA.jpg'
 
 function Logo() {
     return (
 
         <div>
 
-            {/* <img src="DAlogo.jpg" className='logo' /> */}
-            <div className='logo'></div>
+            <img src={DALogo} className='logo' />
 
         </div>
     )
