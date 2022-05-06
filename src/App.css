@@ -11,7 +11,8 @@ body {
 {
   width: 600px;
   height: 300px;
-  background-color: red;
+  background-image: radial-gradient(ellipse farthest-corner at 0 140%, #192d35 70%, #046865 70%);
+
   margin: 0px auto;
   left: 0px;
   right: 0px;
