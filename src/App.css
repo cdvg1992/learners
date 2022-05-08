@@ -4,8 +4,9 @@
 }
 
 body {
-  background-color: green;
-
+  background-image: url("https://cms.thedigitalacademy.co.za/uploads/back_Img_Url_af4c1c93dd.jpg");
+  background-position: center;
+  
 }
 .login
 {
