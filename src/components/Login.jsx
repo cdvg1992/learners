@@ -11,16 +11,12 @@ function Login() {
       <br/>
       <label>Learnership Login</label>
 
-      <label for="username" placeholder='Username'></label>
-      <br/>
-      <br/>
-      <input type="text" id="username"></input>
+      <input type="text" id="username" placeholder='Username'></input>
       <br/><br/>
-      <label for="email" placeholder='Email'></label>
+      <input type="text" id="username" placeholder='Password'></input>
       <br/>
       <br/>
-      <input type="text" id="email"></input>
-
+      
     </div>
   )
 }
