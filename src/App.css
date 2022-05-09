@@ -43,10 +43,14 @@ input
   border-radius: 50px;
   width: 200px;
   height: 25px;
+  border: none;
 }
 button
 {
   border-radius: 50px;
   width: 200px;
   height: 25px;
+  background-color: green;
+  border: none;
+  cursor: pointer;
 }
