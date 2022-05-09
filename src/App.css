@@ -44,3 +44,9 @@ input
   width: 200px;
   height: 25px;
 }
+button
+{
+  border-radius: 50px;
+  width: 200px;
+  height: 25px;
+}
