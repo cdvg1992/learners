@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../Logo'
+import Form from './Form'
 
 function Login() {
   return (
@@ -10,12 +11,10 @@ function Login() {
 
       <br/>
       <label>Learnership Login</label>
+      <br/>
+      <Form/>
 
-      <input type="text" id="username" placeholder='Username'></input>
-      <br/><br/>
-      <input type="text" id="username" placeholder='Password'></input>
-      <br/>
-      <br/>
+      
       
     </div>
   )

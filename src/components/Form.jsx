@@ -5,11 +5,12 @@ function Form() {
         <div>
             <form>
                 <div className='container'>
-                    <label>Username : </label>
-                    <input type="text" placeholder="Enter Username" name="username" required />
-                    <label>Password : </label>
-                    <input type="password" placeholder="Enter Password" name="password" required/>
-
+                    <br/>
+                    <input type="text" id="username" placeholder='Username'></input>
+                    <br /><br />
+                    <input type="text" id="username" placeholder='Password'></input>
+                    <br />
+                    <br />
                 </div>
 
             </form>
